@@ -139,3 +139,4 @@ by Floyd Smith
     当你迁移到 NGINX 时，你可以借鉴 [NGINX 微服务参考架构](https://www.nginx.com/blog/introducing-the-nginx-microservices-reference-architecture/)（MRA，Microservices Reference Architecture），以便在迁移到微服务后定义应用的最终结构，并根据需要使用 MRA 部分应用在你的新微服务中。
 
 总而言之，使用 NGINX 作为你转型的第一步，压倒你的单体应用，使其更容易获得微服务的所有优势，并为你提供用于转换的模型。你可以了解有关 MRA 的更多信息，并获得 NGINX Plus 的免费试用版。
+test feaure commit
